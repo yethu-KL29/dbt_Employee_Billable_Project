@@ -1,0 +1,21 @@
+employee_id,employee_name,job_title,hire_date,department_id,location
+1001,Diana Johnson,Project Manager,2011-04-24,301,Chicago
+1002,Michael Brown,Software Engineer,2021-10-29,302,San Francisco
+1003,Sam Davis,Marketing Manager,2017-10-23,303,Los Angeles
+1004,Diana Rodriguez,Project Manager,2016-06-21,304,Boston
+1005,John Martinez,Software Engineer,2003-11-05,305,Chicago
+1006,James Rodriguez,Sales Associate,2014-03-31,301,Los Angeles
+1007,David Rodriguez,Project Manager,2004-09-19,302,Boston
+1008,David Jones,HR Specialist,2005-05-15,303,Chicago
+1009,Sara Rodriguez,Data Analyst,2006-08-11,304,San Francisco
+1010,Michelle Davis,Sales Associate,2007-04-11,305,San Francisco
+1011,John Smith,Data Analyst,2023-02-12,301,Los Angeles
+1012,Jessica Miller,Software Engineer,2024-02-01,302,New York
+1013,Diana Brown,Sales Associate,2004-10-28,303,Los Angeles
+1014,Michael Williams,Software Engineer,2005-05-22,304,Chicago
+1015,David Jones,Data Analyst,2017-08-04,305,Los Angeles
+1016,Sara Rodriguez,HR Specialist,2023-12-05,301,Los Angeles
+1017,Jessica Rodriguez,Marketing Manager,2003-05-30,302,Chicago
+1018,Michael Johnson,Marketing Manager,2013-04-21,303,San Francisco
+1019,Michelle Martinez,Marketing Manager,2010-11-29,304,Los Angeles
+1020,John Smith,Software Engineer,2001-02-26,305,Chicago

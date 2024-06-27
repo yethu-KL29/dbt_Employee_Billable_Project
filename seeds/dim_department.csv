@@ -1,0 +1,21 @@
+department_id,department_name,location,head_of_department_id
+301,HR,New York,1001
+302,Finance,San Francisco,1002
+303,Engineering,Los Angeles,1003
+304,Sales,Chicago,1004
+305,Marketing,Boston,1005
+301,HR,New York,1006
+302,Finance,San Francisco,1007
+303,Engineering,Los Angeles,1008
+304,Sales,Chicago,1009
+305,Marketing,Boston,1010
+301,HR,New York,1011
+302,Finance,San Francisco,1012
+303,Engineering,Los Angeles,1013
+304,Sales,Chicago,1014
+305,Marketing,Boston,1015
+301,HR,New York,1016
+302,Finance,San Francisco,1017
+303,Engineering,Los Angeles,1018
+304,Sales,Chicago,1019
+305,Marketing,Boston,1020
